@@ -1,1 +1,1 @@
-# python_selenium
+Примеры автотестов на Python и Selenium.
